@@ -1,8 +1,8 @@
-## Hi there 👋
+## Chào mấy con vợ 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucky-sky-777&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-sky-777&layout=compact)
+![Top Langs](https://github-stats.tdung.com/api/top-langs?username=lucky-sky-777&locale=en&theme=dark&layout=compact)
 
 <!--
 **lucky-sky-777/lucky-sky-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
