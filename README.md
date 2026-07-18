@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucky-sky-777&color=blue)
 
-![Top Langs](https://github-stats.tdung.com/api/top-langs?username=lucky-sky-777&locale=en&theme=dark&layout=compact)
+![Top Langs](https://github-stats.tdung.com/api/top-langs?username=lucky-sky-777&locale=en&theme=dark&layout=compact&hide=Makefile,Html,Css,Cmake,Cython)
 
 <!--
 **lucky-sky-777/lucky-sky-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
